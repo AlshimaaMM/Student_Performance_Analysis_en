@@ -1,5 +1,36 @@
 [نسخة عربية](../README.md)
 
+# 📊 Student Performance Analysis
+
+## 🔍 Overview
+This project analyzes student performance in Math using data from Kaggle.  
+The goal is to explore how different factors affect academic performance, such as:
+- Gender
+- Test preparation course
+- Parental level of education
+
+The analysis includes data exploration, visualization, and key insights.
+
+---
+
+## 🛠️ Tools & Libraries
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+---
+
+## 📂 Project Structure
+
+│
+├── README.md ← Arabic version
+├── README_EN.md ← English version
+├── notebook.ipynb ← Jupyter Notebook (analysis)
+├── data/
+│ └── StudentsPerformance.csv
+├── images/ ← Visualizations (charts, plots)
+└── requirements.txt ← Required Python libraries
 ---
 
 ## 📈 Sample Visualizations
