@@ -30,7 +30,6 @@ The analysis includes data exploration, visualization, and key insights.
 ├── data/
 │ └── StudentsPerformance.csv
 ├── images/ ← Visualizations (charts, plots)
-└── requirements.txt ← Required Python libraries
 ---
 
 ## 📈 Sample Visualizations
